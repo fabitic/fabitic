@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6f42c1&height=240&section=header&text=Hi,%20I'm%20fabitic&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Application%20Development%20Student&descSize=20&descAlignY=60&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6f42c1&height=240&section=header&text=Hi,%20I'm%20FabiánRV&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Application%20Development%20Student&descSize=20&descAlignY=60&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6F42C1&center=true&vCenter=true&width=600&lines=Building+websites+and+apps;HTML+%7C+Java+%7C+Oracle+SQL;Learning+something+new+every+day" alt="Typing animation">
 
